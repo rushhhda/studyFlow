@@ -5,7 +5,7 @@ import Notes from "./pages/Notes";
 import Pomodoro from "./pages/Pomodoro";
 
 import Tasks from "./pages/Tasks";
-import Mainlayout from "./layout/mainlayout.jsx";
+import Mainlayout from "./layout/Mainlayout.jsx";
 import "./app.css";
 
 function App() {
